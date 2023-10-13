@@ -117,7 +117,7 @@ body{
         display: flex;
         align-items: center;
         color: black;
-        font-size: xx-large;
+        font-size: large;
         font-weight: bold;
     }
     #lista li:hover{
@@ -141,7 +141,7 @@ body{
             background-image: linear-gradient(to bottom, white, rgba(172, 170, 170, 0.801));
             border-radius: 5px;
             width: 289px;
-            font-size: xx-large;
+            font-size: large;
             font-style: none;
             font-weight: bold;
             color: blueviolet;
